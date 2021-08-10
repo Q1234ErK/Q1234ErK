@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Q1234ErK
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Q1234ErK/Q1234ErK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+{
+  "متن": "تست",
+  "تصویر": "https://s19.picofile.com/file/8437808100/Corona_Virus_Icon_Set_Preview_Image_722x1024.jpg "
+}
